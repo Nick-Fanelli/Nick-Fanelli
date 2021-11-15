@@ -6,6 +6,10 @@
 
 ---
 
+<a href-"https://githb.com/anuraghazara/github-readme-stats" title="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=nick-fanelli&count_private=true&bg_color=30,429bf5,4286fc&title_color=fff&text_color=fff" />
+</a>
+
 [![Nick-Fanelli's GitHub stats](https://github-readme-stats.vercel.app/api?username=nick-fanelli)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
