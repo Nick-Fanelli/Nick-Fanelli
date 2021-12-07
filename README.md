@@ -5,7 +5,7 @@
 - 😄  Pronouns: He/Him
 
 
-### GitHub Stats
+<!-- ### GitHub Stats -->
 
 <!-- 
 ![Nick-Fanelli's GitHub stats](https://github-readme-stats.vercel.app/api?username=nick-fanelli&show_icons=true&theme=cobalt&hide_border=true)
