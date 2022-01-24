@@ -1,7 +1,7 @@
 ### Hi There, I'm Nick 👋
 
 - 🔭  I’m currently working on [The Bravenators Robotics FTC Freight Frenzy Code](https://github.com/Bravenators-Robotics-9533/FreightFrenzy)
-- 🌱  I’m currently learning [Finite State Machines](https://en.wikipedia.org/wiki/Finite-state_machine)
+- 🌱  I’m currently getting better at [OpenCV](https://opencv.org/) (fun!)
 - 😄  Pronouns: He/Him
 
 
