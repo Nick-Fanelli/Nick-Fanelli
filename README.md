@@ -1,7 +1,7 @@
 ### Hi There, I'm Nick 👋
 
-- 🔭  I’m currently working on [The Bravenators Robotics FTC Freight Frenzy Code](https://github.com/Bravenators-Robotics-9533/FreightFrenzy) and [Scan Pass (A digital hallpass system)](https://github.com/Nick-Fanelli/scan-pass)
-- 🌱  I’m currently getting better at [OpenCV](https://opencv.org/) (fun!)
+- 🔭  I’m currently working on [Scan Pass (A digital hallpass system)](https://github.com/Nick-Fanelli/scan-pass)
+- 🌱  I’m currently getting better at [MongoDB No SQL Databases](https://mongodb.com/)
 - 😄  Pronouns: He/Him
 
 
