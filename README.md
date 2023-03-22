@@ -1,7 +1,7 @@
 ### Hi There, I'm Nick 👋
 
-- 🔭  I’m currently working on Scan Pass (A digital hallpass system) pst. it's a private repo for security reasons... sorry :(
-- 🌱  I’m currently getting better at [MongoDB No SQL Databases](https://mongodb.com/)
+- 🔭  I’m currently working on SitzCue
+- 🌱  I’m currently getting better at ImGUI
 - 😄  Pronouns: He/Him
 
 
