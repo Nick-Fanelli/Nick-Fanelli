@@ -1,6 +1,6 @@
 ### Hi There, I'm Nick 👋
 
-- 🔭  I’m currently working on SitzCue
+- 🔭  I’m currently working on SitzQ
 - 🌱  I’m currently getting better at ImGUI
 - 😄  Pronouns: He/Him
 
